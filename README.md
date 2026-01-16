@@ -82,3 +82,33 @@ Kod został podzielony na moduły dla zachowania czystości:
    ```
    streamlit run main.py
    ```
+
+## Demo / Podgląd aplikacji
+> Dane uzyte do prezentacji pochodzą ze zbioru California Housing Prices: https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
+---
+
+Wczytanie pliku
+![Wczytanie pliku](https://i.imgur.com/qvrxvmq.png)
+
+---
+
+Eksploracja danych i wizualizacje
+![Eksploracja danych](https://i.imgur.com/OqPWQgS.png)
+![Wizualizacja](https://i.imgur.com/pXmHE2Z.png)
+
+---
+
+Przygotowanie danych
+![Przygotowanie danych](https://i.imgur.com/IMBvlKS.png)
+
+---
+
+Trenowanie modelu
+![Trenowanie modelu](https://i.imgur.com/8lv8Vw4.png)
+
+---
+
+Wyniki, raport oraz eksport
+![Wyniki i raport](https://i.imgur.com/kkFekP5.png)
+![Eksport](https://i.imgur.com/wFDhzwr.png)
